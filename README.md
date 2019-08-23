@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来访
 
-You can use the [editor on GitHub](https://github.com/mjfchn/mjfchn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你好，我是马俊峰，我对智能制造有广泛的兴趣。目前，我正专注于流程制造业的智能制造和工业互联网平台的建设。更具体地说，
+我正在建设水泥行业的工业互联网平台，涵盖智能控制、智能工艺、智慧能源、设备远程运维等方向，我的工作经历如下。
 
 ### Markdown
 
